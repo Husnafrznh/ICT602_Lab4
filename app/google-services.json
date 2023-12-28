@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1069033213428",
+    "firebase_url": "https://lab4-husna-67bf5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lab4-husna-67bf5",
+    "storage_bucket": "lab4-husna-67bf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069033213428:android:df59f141bf2cb4377dbda1",
+        "android_client_info": {
+          "package_name": "com.example.lab4_husna"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0_6rMHyQv6IRl_mJGfzjtpJm8WyhX8Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
